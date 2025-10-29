@@ -7,7 +7,7 @@ export default function Home() {
 
       <div className="mt-6 flex justify-center">
         <Image
-          src="/refa.jpg"  
+          src="/Refa.jpg"  
           alt="Foto Refa Rahmawati"
           width={200}
           height={200}

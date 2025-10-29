@@ -8,7 +8,7 @@ export default function Experience() {
       year: "2024",
       description:
         "Menampilkan sebuah karya story telling dengan mengangkat tema kepahlawanan yakni tokoh Ir.soekarno, hingga berhasil meraih juara 1 dalam ajang perlombaan DWIHARNAS (Dua Hari Nasional).",
-      image: "/refa2.jpg",
+      image: "/Refa2.jpg",
     },
     {
       title: "Volunteer Green Generation Indonesia",
@@ -16,7 +16,7 @@ export default function Experience() {
       year: "2024",
       description:
         "Edukasi dan advokasi: Menyebarkan kesadaran lingkungan melalui sesi edukasi, seminar dan lokakarya.",
-      image: "/refa3.jpg",
+      image: "/Refa3.jpg",
     },
     {
       title: "Generasi Berencana",
